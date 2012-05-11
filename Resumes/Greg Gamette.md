@@ -2,7 +2,7 @@ Gregory Gamette
 ggamette@pubknow.com 
 
 # Highlights
-* 10 years of private and public consulting experience 
+* 10 years of private and public consulting experience
 * Experienced with Medicaid, CHIP, long-term care, mental health and substance abuse, and other human services systems and programs
 * Experience with large MMIS and eligibility systems
 * Trained in Institute of Cultural Affairs facilitation techniques
