@@ -11,7 +11,7 @@ Our goal is to make it easy to focus on the writing. We also hope to make the fi
 
 Overview of the RFP
 -------------------
-The [AZ WIC EBT RFP][az-wic-rfp] is available on the [ProcureAZ website][pro-az]. You'll need the username and password to access the site. It's available on the [CRM website][crm], or you can email [Naomi](nsnodgrass@pubknow.com) or [Greg](ggamette@pubknow.com) for the username and password.
+The [AZ WIC EBT RFP][az-wic-rfp] is available on the [ProcureAZ website][pro-az]. You'll need the username and password to access the site. It's available on the [CRM website][crm], or you can email Naomi or Greg for the username and password.
 
 The six RFP PDFs are also available in the shared Dropbox folder. 
 
