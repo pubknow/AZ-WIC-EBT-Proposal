@@ -17,6 +17,7 @@ The six RFP PDFs are also available in the shared Dropbox folder.
 
 The Repository
 --------------
+Adding some new stuff.
 
 
 [md]: http://daringfireball.net/projects/markdown/
